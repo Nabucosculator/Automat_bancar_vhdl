@@ -1,0 +1,31 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.cache
+*.hw
+*.runs
+*.sim
+*.gen
+*.ip_user_files
+*.xpr
+*.tmp
+*.backup
+*.wdb
+*.pb
+*.ltx
+*.dcp
+*.xdc.user
+
+# Xilinx simulation / generated files
+xsim.dir/
+webtalk/
+NA/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
