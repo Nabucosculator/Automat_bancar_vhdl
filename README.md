@@ -1,1 +1,0 @@
-# Automat_bancar_vhdl
